@@ -3,8 +3,7 @@
     Test 1
 </div>
 
-<div>
-    ![Myprofile](/img/profile.jpeg)
-</div>
+
+    ![Myprofile] (/img/profile.jpeg)
 
 
