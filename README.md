@@ -4,7 +4,7 @@
 </div>
 
 <div>
-    Witchapol Inaksorn
+    ![Myprofile](/img/profile.jpeg)
 </div>
 
 
