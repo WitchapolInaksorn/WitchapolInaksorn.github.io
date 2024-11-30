@@ -6,4 +6,4 @@
 ![Myprofile](/img/profile.jpeg)
 
 
-<a href="https://witchapolinaksorn.github.io/vlan"> My Vocabulary</a>
+<a href="https://witchapolinaksorn.github.io/vlan"> Vocab Work </a>
