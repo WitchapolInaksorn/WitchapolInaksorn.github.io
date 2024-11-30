@@ -1,7 +1,7 @@
 # Witchapol Inaksorn
-<div>
-    Owen
-</div>
+
+- Witchapol
+    - Owen
 
 ![Myprofile](/img/profile.jpeg)
 
