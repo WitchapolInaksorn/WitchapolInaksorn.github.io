@@ -2,4 +2,5 @@
 
 ![eCardChristmas](img/e-CardChristmas.png)
 
-Steganography : [ [Click Here!](https://stylesuxx.github.io/steganography/) ]
+Download : [ [Click here to Download!](img/e-CardChristmas.png) ]
+Steganography : [ [Click here to go Website!](https://stylesuxx.github.io/steganography/) ]
