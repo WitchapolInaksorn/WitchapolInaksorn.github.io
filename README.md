@@ -11,7 +11,7 @@ Hello, Welcome to My Profile Page Kabb
 
 ![Myprofile](img/profile.jpeg)
 
-- **Assignment**  
+**Assignment**  
   - [Vocab Work](https://witchapolinaksorn.github.io/vlan)  
   - [E-Card Christmas](https://witchapolinaksorn.github.io/eCardChristmas)
 
