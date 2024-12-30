@@ -33,6 +33,7 @@ Data completeness in the context of data quality means that the data is complete
 
 *My Summary*
 ---
+Completeness คือ การที่ข้อมูลมีความครบถ้วน ไม่มีช่องว่างหรือข้อมูลหายไปในส่วนที่จำเป็น ต้องมีข้อมูลทุกส่วนที่ต้องการเพื่อให้การวิเคราะห์หรือการตัดสินใจถูกต้องและสมบูรณ์
 
 *Example*
 ---
