@@ -2,9 +2,10 @@
 
 *Difinition*
 ---
-**English**
+**English**  
 Data completeness is a measure of how much essential information is included in a data set or model, and is one of the six dimensions of data quality.
-**Thai**
+
+**Thai**  
 ความสมบูรณ์ของข้อมูล คือการวัดว่าข้อมูลที่จำเป็นมีอยู่มากน้อยเพียงใดในชุดข้อมูลหรือแบบจำลองและเป็นหนึ่งในหกมิติของคุณภาพข้อมูล
 
 *Source*
