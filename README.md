@@ -14,6 +14,6 @@ Hello, Welcome to My Profile Page Kabb
 **Assignment**  
   - [Vocab Work](https://witchapolinaksorn.github.io/vlan)  
   - [E-Card Christmas](https://witchapolinaksorn.github.io/eCardChristmas)
-  - [completeness](https://witchapolinaksorn.github.io/completeness)
+  - [Completeness](https://witchapolinaksorn.github.io/completeness)
 
 
