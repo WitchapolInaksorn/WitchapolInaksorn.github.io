@@ -1,6 +1,6 @@
 # Virtual Local Area Networks (VLANs)
 
-[My Profile](https://witchapolinaksorn.github.io/)
+[ Back to Homepage ](https://witchapolinaksorn.github.io)
 
 - **CISSP Glossary**
   - Allow network administrators to use switches to create software-based LAN segments that can be defined based on factors other than physical location.
