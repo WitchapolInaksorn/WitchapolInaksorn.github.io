@@ -15,5 +15,6 @@ Hello, Welcome to My Profile Page Kabb
   - [Vocab Work](https://witchapolinaksorn.github.io/vlan)  
   - [E-Card Christmas](https://witchapolinaksorn.github.io/eCardChristmas)
   - [Completeness](https://witchapolinaksorn.github.io/completeness)
+  - [Security Control](https://witchapolinaksorn.github.io/security-control)
 
 
