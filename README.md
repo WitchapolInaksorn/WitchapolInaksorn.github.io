@@ -12,10 +12,10 @@ Hello, Welcome to My Profile Page Kabb
 ![Myprofile](img/profile.jpeg)
 
 **Assignment**  
-  - [Vocab Work](https://witchapolinaksorn.github.io/vlan)  
-  - [E-Card Christmas](https://witchapolinaksorn.github.io/eCardChristmas)
-  - [Completeness](https://witchapolinaksorn.github.io/completeness)
-  - [Security Control](https://witchapolinaksorn.github.io/security-control)
-  - [PAO Elections](https://witchapolinaksorn.github.io/pao-elections)
+  - [Vocab Work 📓](https://witchapolinaksorn.github.io/vlan)  
+  - [E-Card Christmas 🎄](https://witchapolinaksorn.github.io/eCardChristmas)
+  - [Completeness 💯](https://witchapolinaksorn.github.io/completeness)
+  - [Security Control 👮🏻](https://witchapolinaksorn.github.io/security-control)
+  - [PAO Elections 🗳️](https://witchapolinaksorn.github.io/pao-elections)
 
 
