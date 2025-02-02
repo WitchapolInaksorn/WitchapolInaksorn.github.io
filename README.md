@@ -1,6 +1,8 @@
 # Witchapol Inaksorn
 
-Hello, Welcome to My Profile Page Kabb
+<center>
+  Hello, Welcome to my profile page kabb 😊
+</center>
 
 ---
 
@@ -17,5 +19,6 @@ Hello, Welcome to My Profile Page Kabb
   - [Completeness 💯](https://witchapolinaksorn.github.io/completeness)
   - [Security Control 👮🏻](https://witchapolinaksorn.github.io/security-control)
   - [PAO Elections 🗳️](https://witchapolinaksorn.github.io/pao-elections)
+  - [Boardgame 🎲](https://witchapolinaksorn.github.io/board-game)
 
 

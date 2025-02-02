@@ -1,4 +1,4 @@
-# 2025 Pao Elections
+# 2025 PAO Elections
 
 [ Back to Homepage ](https://witchapolinaksorn.github.io)
 
