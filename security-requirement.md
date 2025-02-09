@@ -4,9 +4,9 @@
 
 **V2.1 Password Security**
 ---
-**Description** 
---- 
 
+**Description**
+--- 
 **English**  
 Verify that passwords of at least 64 characters are permitted, and that passwords of more than 128 characters are denied. 
 
