@@ -4,7 +4,7 @@
 
 
 **V2 Authentication**
-**2.1 Password Security**  
+**2.1.2 Password Security**  
 
 
 **Description**
