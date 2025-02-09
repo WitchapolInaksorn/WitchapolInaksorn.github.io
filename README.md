@@ -20,5 +20,6 @@
   - [Security Control 👮🏻](https://witchapolinaksorn.github.io/security-control)
   - [PAO Elections 🗳️](https://witchapolinaksorn.github.io/pao-elections)
   - [Boardgame 🎲](https://witchapolinaksorn.github.io/board-game)
+  - [Security Requirement 🛡️](https://witchapolinaksorn.github.io/security-requirement)
 
 
