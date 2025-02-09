@@ -2,8 +2,8 @@
 
 [ Back to Homepage ](https://witchapolinaksorn.github.io)  
 
-**V2.1 Password Security**
----
+*V2.1 Password Security*
+
 
 **Description**
 --- 
